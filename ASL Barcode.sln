@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASL Barcode", "ASL Barcode\ASL Barcode.csproj", "{704BC072-E134-4E32-B8CC-32BBBA201C51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{088CEAFE-7C1E-4AB8-92C2-91B15117B895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704BC072-E134-4E32-B8CC-32BBBA201C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704BC072-E134-4E32-B8CC-32BBBA201C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704BC072-E134-4E32-B8CC-32BBBA201C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704BC072-E134-4E32-B8CC-32BBBA201C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088CEAFE-7C1E-4AB8-92C2-91B15117B895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088CEAFE-7C1E-4AB8-92C2-91B15117B895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088CEAFE-7C1E-4AB8-92C2-91B15117B895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088CEAFE-7C1E-4AB8-92C2-91B15117B895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81EA801B-69E6-4324-B62B-BF5043A7A2D2}
+	EndGlobalSection
+EndGlobal
